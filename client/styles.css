@@ -1,0 +1,8 @@
+.delete-btn, .edit-btn {
+    width: 2em;
+    height: 1em;
+}
+
+.delete-btn:hover, .edit-btn:hover {
+    cursor: pointer;
+}
